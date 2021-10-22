@@ -1,0 +1,78 @@
+{
+"redirect" : {
+
+"HOMEURL" : "file:///android_asset/music/playlist.html",
+ 
+ // testing server json yang dipakai
+"Json_popup_Wait" : "Semoga anda terhibur",
+
+
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+
+
+// mode pengaturan iklan
+// Mode ADMOB       Admob backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
+// Mode APPODEAL    Appodeal backup Unity Backup Startapp
+// Mode UNITY       Unity backup Startapp
+// Mode APPLOVIN    Applovin backup Unity Backup Startapp
+ // native hanya bisa admob fan appodeal
+"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "ADMOB",
+
+"INTER_COUNT" : 3,
+
+"enable_strap" : true,
+"enable_strap_SplahScreen" : true,
+
+"ads_on_exit_dialog" : true,
+
+"Mode_offline_mp3" : true,
+"Enable_Sticky_Notification" : true,
+
+
+"STARAPPID" : "200177528",
+
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
+"ADMOB_NATIV" : "",
+
+"hpk_alien" : "",
+"HPK_ADMOB1" : "",
+"HPK_ADMOB2" : "",
+"HPK_ADMOB3" : "",
+"HPK_ADMOB4" : "",
+"HPK_ADMOB5" : "",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "adfrt",
+"UNITY_TEST_MODE" : "false",
+
+"APPLOVIN_BANNER_ID" : "",
+"APPLOVIN_INTERSTITIAL_ID" : "",
+
+"Button_Start" : "BUKA LAGU",
+"Button_Share" : "BAGIKAN",
+"Button_Rating" : "RATING NOW",
+
+
+"Exit_Popup_Dialog" : "Bantu Rating 5 bintang agar kami dapat terus memberikan lagu maulana wijaya terbaru :)",
+"Rate_Button" : "Rate Sekarang",
+"Later_Button" : "Rate Nanti",
+"enable_Share_button" : false,
+"Share_TXT" : "Supperr APPS Download Now",
+"More_Button" : "Aplikasi Lain",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.usahatenan.Kulepas.Lestilagu.denganikhlasOffline"
+
+  }
+}
