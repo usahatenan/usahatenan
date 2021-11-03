@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Semoga anda terhibur",
 
 
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -35,8 +35,8 @@
 
 "STARAPPID" : "204467134",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
+"ADMOB_BANNER" : "ca-app-pub-4102291156817905/4212434606",
+"ADMOB_INTER" : "ca-app-pub-4102291156817905/8890046218",
 "ADMOB_NATIV" : "",
 
 "hpk_alien" : "",
