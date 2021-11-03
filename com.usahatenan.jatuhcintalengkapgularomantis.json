@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Semoga anda terhibur",
 
 
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -22,12 +22,12 @@
 "PENGATURAN_IKLAN_inter" : "ADMOB",
 "PENGATURAN_IKLAN_native" : "ADMOB",
 
-"INTER_COUNT" : 3,
+"INTER_COUNT" : 2,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : true,
 
-"ads_on_exit_dialog" : true,
+"ads_on_exit_dialog" : false,
 
 "Mode_offline_mp3" : true,
 "Enable_Sticky_Notification" : true,
@@ -35,8 +35,8 @@
 
 "STARAPPID" : "206717669",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
+"ADMOB_BANNER" : "ca-app-pub-4102291156817905/9249138863",
+"ADMOB_INTER" : "ca-app-pub-4102291156817905/5281973691",
 "ADMOB_NATIV" : "",
 
 "hpk_alien" : "",
